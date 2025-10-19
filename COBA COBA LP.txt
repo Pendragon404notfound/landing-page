@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Judul Halaman SEO Anda | Nama Brand</title>
+  <meta name="description" content="Deskripsi singkat halaman ini, berisi kata kunci utama secara alami dan menarik bagi pengunjung.">
+  <meta name="keywords" content="keyword utama, keyword tambahan, topik terkait">
+
+  <!-- Open Graph for Social Media -->
+  <meta property="og:title" content="Judul Halaman SEO Anda">
+  <meta property="og:description" content="Deskripsi halaman Anda agar tampil menarik di media sosial.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.domainanda.com/">
+  <meta property="og:image" content="https://www.domainanda.com/contoh-thumbnail.jpg">
+
+  <!-- Canonical Link -->
+  <link rel="canonical" href="https://www.domainanda.com/">
+
+  <!-- Schema FAQ JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [{
+      "@type": "Question",
+      "name": "Apa topik utama halaman ini?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Halaman ini membahas topik yang relevan dengan minat pengguna, disajikan secara informatif dan mudah dipahami."
+      }
+    }, {
+      "@type": "Question",
+      "name": "Mengapa halaman ini penting untuk dibaca?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Karena halaman ini berisi informasi yang bermanfaat, diperbarui secara rutin, dan ditulis berdasarkan tren terbaru."
+      }
+    }]
+  }
+  </script>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+      background-color: #f9fafb;
+      color: #222;
+    }
+    header {
+      background: linear-gradient(135deg, #007bff, #00bcd4);
+      color: #fff;
+      text-align: center;
+      padding: 3rem 1rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    }
+    h2 {
+      color: #007bff;
+      margin-top: 2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Judul Utama Halaman Anda</h1>
+    <p>Subjudul atau penjelasan singkat tentang isi halaman ini</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Pengenalan</h2>
+      <p>Tulis paragraf pembuka yang menjelaskan topik utama secara singkat dan jelas. Gunakan kata kunci utama dengan natural.</p>
+    </section>
+
+    <section>
+      <h2>Bagian Informasi Utama</h2>
+      <p>Berikan informasi mendalam tentang topik Anda. Gunakan poin-poin, data, atau tabel jika perlu untuk meningkatkan kualitas konten.</p>
+      <ul>
+        <li>Poin penting pertama</li>
+        <li>Poin penting kedua</li>
+        <li>Poin penting ketiga</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Tips atau Panduan</h2>
+      <p>Tambahkan saran, langkah-langkah, atau insight yang membantu pembaca memahami topik lebih dalam.</p>
+    </section>
+
+    <section>
+      <h2>FAQ (Pertanyaan Umum)</h2>
+      <h3>Apa manfaat membaca halaman ini?</h3>
+      <p>Halaman ini membantu pembaca memahami topik dengan ringkas dan akurat, serta menampilkan tren terbaru di bidang terkait.</p>
+
+      <h3>Apakah konten ini diperbarui secara berkala?</h3>
+      <p>Ya, konten diperbarui sesuai perkembangan dan tren terbaru agar tetap relevan.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Nama Brand. Semua hak dilindungi.</p>
+  </footer>
+</body>
+</html>
